@@ -93,6 +93,8 @@ I am currently pursuing my bachelor’s in Computer Science and Engineering from
 
 Mob no: +919999157033	
 
+Gitter Id: jayant-yadav
+
 **Preferred method of contact**:  Email, Gchat, Hangouts.
 
 **Communication Frequency:** Twice a week (flexible)
