@@ -8,9 +8,7 @@ Email: [jayantyadav202@gmail.com](mailto:jayantyadav202@gmail.com)
 
 Github handle: jayant-yadav
 
-**Project: **AngularJS Web App Enhancements
-
-**Questions:-**
+**Project:** AngularJS Web App Enhancements
 
 1. Project Idea:
 
@@ -94,15 +92,15 @@ This project is special to me since I always wanted to help people on the ground
 
 	**Contact Information**:
 
- 		Email: [jayantyadav202@gmail.com](mailto:jayantyadav202@gmail.com)	
+ 	Email: [jayantyadav202@gmail.com](mailto:jayantyadav202@gmail.com)	
 
 Mob no: +919999157033	
 
-	**Preferred method of contact**:  Email, Gchat, Hangouts.
+**Preferred method of contact**:  Email, Gchat, Hangouts.
 
-	**Communication Frequency:  **Twice a week (flexible)
+**Communication Frequency:** Twice a week (flexible)
 
-**Timezone: **​UTC+5.5 (IST ­ India) 
+**Timezone:** UTC+5.5 (IST- India) 
 
 6. Career goals: 
 
