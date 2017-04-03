@@ -10,12 +10,12 @@ Github handle: jayant-yadav
 
 **Project:** AngularJS Web App Enhancements
 
-**1. Project Idea:**
+### **1. Project Idea:**
 
 This GSoC project aims to improve UI of the AngularJs Web App, which is the standard application on the Mifos X distribution. Improving the interface is essential so that it gives an enhanced user experience and boosts their productivity. The more intuitive is the design, the easier it is for the user to understand how the application works. This will help the organization to reach more people and deliver financial services more effectively and efficiently. 
 
-**2. Briefly cover what you expect to complete in this project and when:**
-
+### **2. Briefly cover what you expect to complete in this project and when:**
+ 
 * Community bonding period
 
     * Get familiar with code base. Specially the part which requires to be understood for making of web app.
@@ -58,7 +58,7 @@ This GSoC project aims to improve UI of the AngularJs Web App, which is the stan
 
 	This plan can go as expected or we can re-distribute the task as required.   
 
-**3. Why are you the right person for this project?**
+### **3. Why are you the right person for this project?**
 
 	
 I have experience in working at front-end and know JavaScript, **AngularJS**, JQuery, **Bootstrap**, Foundation5, HTML5 , PHP, codeigniter and CSS3.
@@ -73,7 +73,7 @@ This project is special to me since I always wanted to help people on the ground
 
 	
 
-**4. If in college, current area of study:**
+### **4. If in college, current area of study:**
 
 I am currently pursuing my bachelor’s in Computer Science and Engineering from JIIT, noida, India. Courses studied:
 
@@ -85,7 +85,7 @@ I am currently pursuing my bachelor’s in Computer Science and Engineering from
 
 * Activity Centered Design and User Experience, etc..
 
-**5. Contact information and preferred method of contact (email, Gitter ID, Skype id, telephone number, time zone):**
+### **5. Contact information and preferred method of contact (email, Gitter ID, Skype id, telephone number, time zone):**
 
 **Contact Information**:
 
@@ -99,13 +99,13 @@ Mob no: +919999157033
 
 **Timezone:** UTC+5.5 (IST- India) 
 
-**6. Career goals:** 
+### **6. Career goals:** 
 
 As I mentioned, I like to work for people at ground level. So, my current career plan is to complete my BTech in CSE and have a job experience of around 2 years before heading for an MBA degree from a renowned university, so as to develop management skills which  will help me to work with people I like to serve for.
 
 	
 
-**7. Please share any links to source code you have written or websites you have built.** 
+### **7. Please share any links to source code you have written or websites you have built.** 
 
 * I have developed a [website ](http://isavelives.in/)for a company in my Internship and made another internal Web application for another company. ([linkedin profile](https://www.linkedin.com/in/jayant-yadav/)) 
 
@@ -113,7 +113,7 @@ As I mentioned, I like to work for people at ground level. So, my current career
 
  
 
-**8. Have you contributed to other open source projects? If so, which?**
+### **8. Have you contributed to other open source projects? If so, which?**
 
 I am new to Open Source Community, yet the very philosophy of Open Source attracts me towards itself, as it shows how like-minded people can get together and help the world selflessly.
 
@@ -121,21 +121,21 @@ I am new to Open Source Community, yet the very philosophy of Open Source attrac
 
 * I am also currently a participant in Mozilla Winter of Security 2016 (MWoS) where I am developing a[ Web UI](https://github.com/jayant-yadav/mig/tree/master/client/mig-webapp) for Mig which is primarily a command line tool.
 
-**9. Have you any previous experience with JavaScript/ Java/ Spring/ Hibernate/ MySQL?**
+### **9. Have you any previous experience with JavaScript/ Java/ Spring/ Hibernate/ MySQL?**
 
 As my projects suggests, I have been in touch with JavaScript and MySQL from the past 1.5-2 years.
 
 I have worked with AngularJS, JQuery, Bootstrap, Foundation5 and some backend languages.
 
-**10. What other commitments do you have this summer?**
+### **10. What other commitments do you have this summer?**
 
 Time that can be devoted: 35-40 hrs/week. 
 
-**11. Have you previously participated in the Google Summer of Code?**
+### **11. Have you previously participated in the Google Summer of Code?**
 
 No.
 
-**12. Are you applying to multiple organizations this year?**
+### **12. Are you applying to multiple organizations this year?**
 
 No
 
