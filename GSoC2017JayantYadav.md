@@ -12,7 +12,7 @@ Github handle: jayant-yadav
 
 **1. Project Idea:**
 
-	This GSoC project aims to improve UI of the AngularJs Web App, which is the standard application on the Mifos X distribution. Improving the interface is essential so that it gives an enhanced user experience and boosts their productivity. The more intuitive is the design, the easier it is for the user to understand how the application works. This will help the organization to reach more people and deliver financial services more effectively and efficiently. 
+This GSoC project aims to improve UI of the AngularJs Web App, which is the standard application on the Mifos X distribution. Improving the interface is essential so that it gives an enhanced user experience and boosts their productivity. The more intuitive is the design, the easier it is for the user to understand how the application works. This will help the organization to reach more people and deliver financial services more effectively and efficiently. 
 
 **2. Briefly cover what you expect to complete in this project and when:**
 
@@ -61,8 +61,7 @@ Github handle: jayant-yadav
 **3. Why are you the right person for this project?**
 
 	
-
-	I have experience in working at front-end and know JavaScript, **AngularJS**, JQuery, **Bootstrap**, Foundation5, HTML5 , PHP, codeigniter and CSS3.
+I have experience in working at front-end and know JavaScript, **AngularJS**, JQuery, **Bootstrap**, Foundation5, HTML5 , PHP, codeigniter and CSS3.
 
 I was also selected in Mozilla Winter of Security 2016 (**MWoS**) and currently making a WebUI for their Mig (Mozilla Investigator) project. Hence, I have experience in working with large code bases and never hesitate to ask questions. Besides, I have done **Internships** in two different companies, full-stack development ( mostly front-end) job and made website in college level projects.   
 
@@ -76,23 +75,21 @@ This project is special to me since I always wanted to help people on the ground
 
 **4. If in college, current area of study:**
 
-	I am currently pursuing my bachelor’s in Computer Science and Engineering from JIIT, noida, India. Courses studied:
+I am currently pursuing my bachelor’s in Computer Science and Engineering from JIIT, noida, India. Courses studied:
 
-	High Performance Web Applications
+* High Performance Web Applications
 
-	Distributed Computing 
+* Distributed Computing 
 
-	Databases
+* Databases
 
-	Activity Centered Design and User Experience
-
-	etc..
+* Activity Centered Design and User Experience, etc..
 
 **5. Contact information and preferred method of contact (email, Gitter ID, Skype id, telephone number, time zone):**
 
-	**Contact Information**:
+**Contact Information**:
 
- 	Email: [jayantyadav202@gmail.com](mailto:jayantyadav202@gmail.com)	
+ Email: [jayantyadav202@gmail.com](mailto:jayantyadav202@gmail.com)	
 
 Mob no: +919999157033	
 
@@ -104,7 +101,7 @@ Mob no: +919999157033
 
 **6. Career goals:** 
 
-	As I mentioned, I like to work for people at ground level. So, my current career plan is to complete my BTech in CSE and have a job experience of around 2 years before heading for an MBA degree from a renowned university, so as to develop management skills which  will help me to work with people I like to serve for.
+As I mentioned, I like to work for people at ground level. So, my current career plan is to complete my BTech in CSE and have a job experience of around 2 years before heading for an MBA degree from a renowned university, so as to develop management skills which  will help me to work with people I like to serve for.
 
 	
 
@@ -132,15 +129,15 @@ I have worked with AngularJS, JQuery, Bootstrap, Foundation5 and some backend la
 
 **10. What other commitments do you have this summer?**
 
-	Time that can be devoted: 35-40 hrs/week. 
+Time that can be devoted: 35-40 hrs/week. 
 
 **11. Have you previously participated in the Google Summer of Code?**
 
-	No.
+No.
 
 **12. Are you applying to multiple organizations this year?**
 
-	No
+No
 
 	
 
