@@ -129,7 +129,8 @@ I have worked with AngularJS, JQuery, Bootstrap, Foundation5 and some backend la
 
 ### **10. What other commitments do you have this summer?**
 
-Time that can be devoted: 35-40 hrs/week. 
+Time that can be devoted: 35-40 hrs/week.  
+Although I will be having my end semester exams during community bonding period.
 
 ### **11. Have you previously participated in the Google Summer of Code?**
 
